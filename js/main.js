@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const keys = ['W', 'V', 'D', 'F', 'P', 'H', 'Y', 'K', 'L', 'B', 'T'];
+    const keys = ['W', 'V', 'D', 'F', 'P', 'H', 'Y', 'K', 'L', 'B', ];
     let currentKeyIndex = 0;
     const messageElement = document.getElementById('message');
     const keyElement = document.getElementById('key');
